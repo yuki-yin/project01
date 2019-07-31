@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+	<style type="text/css">
+		yin{
+		font-size:30px;
+		background-color:blue;
+		color:red;
+		font-family:宋体
+		}
+.bian12{
+	background-color:red;
+ }
+ #blue{
+ 	color:yellow
+ }
+	</style>
+
+</head>
+
+<body>
+<table border="border">
+	<tr>
+	<td class="bian12">1</td>
+	<td class="bian12">2</td>
+	<td>3</td>
+	<td>4</td>
+	</tr>
+	<tr>
+	<td>5</td>
+	<td>6</td>
+	<td id="blue">7</td>
+	<td>8</td>
+	</tr>
+	<tr>
+	<td>9</td>
+	<td>10</td>
+	<td class="bian12">11</td>
+	<td class="bian12">12</td>
+	</tr>
+	
+</table>	
+
+</body>
+</html>
