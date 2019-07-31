@@ -5,7 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <img alt="没有这张图片" src="image/aaa.jpg" width="500px"  >
+    <img alt="没有这张图片" src="image/1.jpg" width="500px"  >
+    <img alt="没有这张图片" src="image/2.jpg" width="500px"  >
 		
 		<from action="">
 			<input type="button" value="长安十二时辰">
