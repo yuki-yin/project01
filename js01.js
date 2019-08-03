@@ -12,7 +12,7 @@ var images=0;
 					var e=document.createElement("td");
 					d.appendChild(e);
 					var f=document.createElement("img");
-					f.style="margin-left:40%;width:300px;height:200px";
+					f.style="margin-left:70%;width:300px;height:200px";
 					e.appendChild(f);
 					f.src="image/images/"+(i+images)+".jpg" ;
 				}
