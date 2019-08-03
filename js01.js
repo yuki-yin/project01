@@ -14,7 +14,7 @@ var images=0;
 					var f=document.createElement("img");
 					f.style="margin-left:70%;width:300px;height:200px";
 					e.appendChild(f);
-					f.src="image/"+(i+images)+".jpg" ;
+					f.src="image/images/"+(i+images)+".jpg" ;
 				}
 				images+=3;
 			}
